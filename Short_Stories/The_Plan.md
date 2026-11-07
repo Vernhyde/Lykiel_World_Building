@@ -1,0 +1,10 @@
+# `The Plan`
+
+`Orzak Timbermoore sat quietly at the large table placed in front of him as the older man looked over the maps and diagrams placed in front of him. His wife and one of his closest advisors Abellona standing nearby as she looked over the maps with him. Across from his Father Austin sat as the clan's third in command and to his right was Judith, the Clan's Ace.`  
+`The four of them looking over these plans before Austin spoke up on the plans they had been discussing.`  
+`"Kenji (Vernhyde) and Atsuko (Kuki) had sent word about the southern flanks. They said that we should expect an incursion soon, forces were building." The young man spoke to his father with a confidence and firmness that would only come from a healthy and respected relationship with his Father and Lord.`  
+`"The Druids also said that they Beasts from the 2nd armored brigade had also been pretty on edge when stationed out there." Judith raised her own points about the question at hand.`   
+`"Yes... It all seems so clear..." The older man said with some reservations about the situation of his own, the build up and sightings to the west were of course something to be concerned about but all seemed to obvious, the Myrmidians were being quite aggressive with their pushes after the breakthrough at Qavuth and encirclement of the forces at Sandkeep to the North.`  
+`"Tell Kenji and the *Twins* that I expect a force to hold our north if we move further south, we are already spread thin as is and we cannot lose more beast and men to the Myrmidians." Ozark said to Austin as he looked to his son who would nod in response.`  
+`"Kenji said that Elliot dispatched a Vashnalli Knight Company to support us." The young man would add which got a scoff out of his father.`  
+`"I don't trust those damn mercs... they give me the creeps." He muttered under his breath hinting at the cult like mentality of the Vashnalli Arms Security Forces. He did know they would get the job done right but they also have a tendency to poach and pull talent from anyone they work with...`
