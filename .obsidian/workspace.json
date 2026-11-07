@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
-                "mode": "source",
+                "file": "Scratch_Board.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Scratch_Board"
             }
           }
         ]
@@ -197,5 +197,9 @@
     }
   },
   "active": "df3e131037828e5e",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Creatures/Races.md",
+    "Magic/Magic_System.md",
+    "World_Info/Maps/Maps_info.md"
+  ]
 }
