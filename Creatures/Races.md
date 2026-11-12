@@ -1,10 +1,10 @@
-**Primary:** Humans, Elves, Xarten, Scythians
+**Primary:** Humans, Elves, Xarten, Scythians, Dwarves
 
-**Secondary:** Goblins, Kobolds, Dragons, Slimes, Dwarves
+**Secondary:** Goblins, Kobolds, Dragons, Slimes
 
-**Sub-Races:**
+**Sub-Races:** Drakes (Dragon), Wyverns (Dragon), 
 
-**Monsters:**
+**Monsters & Animals:**
 
 ### Human [ˈ(h)yo͞omən]  
 *Personality:* Various.  

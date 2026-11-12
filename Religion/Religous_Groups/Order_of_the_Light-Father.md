@@ -1,6 +1,5 @@
 # **Vuhaldir's Followers and Worshippers**
 
-## ![][image15]
 
 ## **Militant Branch**
 
