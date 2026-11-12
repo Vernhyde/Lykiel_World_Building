@@ -1,20 +1,19 @@
-# **`Kingdoms of Lumeria`**
+# **Kingdoms of Lumeria**
 
-## **`Shieldhold`**
+## **Shieldhold**
 
-## **`Wolfen`**
+## **Wolfen**
 
-## **`Maris`**
+## **Maris**
 
-## **`Hearthen`**
+## **Hearthen**
 
-## **`Launa`**
+## **Launa**
 
-## **`Sixth`**
+## **Sixth**
 
-## **`Seventh`**
+## **Seventh**
 
-## **`Eighth`**
+## **Eighth**
 
-`Colored Map of Lumerian Kingdoms, Red is Shieldhold, Dark Blue is Maris, Green is Wolfen, Yellow is Hearthen, Purple is Lanua`   
-`![][image16]*`
+Colored Map of Lumerian Kingdoms, Red is Shieldhold, Dark Blue is Maris, Green is Wolfen, Yellow is Hearthen, Purple is Lanua

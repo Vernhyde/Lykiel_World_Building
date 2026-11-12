@@ -1,0 +1,7 @@
+{
+    "ensure_final_newline_on_save": true,
+    "completions": {
+        "words": "enabled"
+    },
+    "remove_trailing_whitespace_on_save": false
+}
